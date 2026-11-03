@@ -1,0 +1,6 @@
+{
+  "name": "vtex-affiliate-endpoint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Endpoint de teste para receber notificações de afiliado e marketplaceServicesEndpoint da VTEX"
+}
